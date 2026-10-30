@@ -1,5 +1,5 @@
 
 function showMessage() {
     document.getElementById("message").textContent =
-        "Congratulations! Your website is working failed! 🎉";
+        "Congratulations! Your website is working failed!";
 }
